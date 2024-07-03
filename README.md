@@ -1,6 +1,4 @@
-Here is a README file for your code:
 
-**README**
 
 **Weather App**
 
