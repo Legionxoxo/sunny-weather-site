@@ -1,6 +1,7 @@
 # 🌤️ Weather App - Sunny! Init?
 
 This is my **first ever project** made using **HTML, CSS, and JavaScript**!  
+This is where everything started and my interest took off.
 It’s a simple weather web app where you can enter the name of any city and get real-time weather data using the OpenWeatherMap API.
 
 ## 🚀 Features
